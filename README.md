@@ -1,22 +1,27 @@
 # GigFlow Dashboard 🚀
 
-A modern HR management dashboard built with **React**, **TypeScript**, and **Tailwind CSS**, featuring the elegant **Shadcn UI** component library. GigFlow streamlines gig tracking, team oversight, and task organization with a clean, responsive interface designed for modern workforce management.
+A modern HR management dashboard built with React, TypeScript, and Tailwind CSS, featuring the elegant Shadcn UI component library.
 
+This dashboard was built for GigFloww — a next-generation HR consultancy helping businesses in the US and UK optimize their workforce by replacing traditional employees with skilled interns and entry-level professionals. The platform supports cost-effective hiring, streamlined onboarding, flexible team scaling, and efficient workforce tracking — all without long-term commitments.
+
+## Live Demo: https://your-demo-link.com
+
+---
 ## 📸 Preview
 
 <p align="center">
-  <img src="./screenshots/dashboard-preview.png" alt="GigFlow Dashboard" width="800" height="450"/>
+  <img src="./screenshots/dashboard-preview.png" alt="GigFlow Dashboard" width="700" height="550"/>
 </p>
 
 ## ✨ Features
 
-- **📊 Performance Analytics** - Real-time performance tracking with interactive charts
-- **👥 Team Management** - Comprehensive employee and hiring oversight
-- **📋 Project Tracking** - Monitor ongoing projects and upcoming actions
-- **📄 Application Management** - Streamlined job application processing
-- **📅 Schedule Integration** - Meeting and event scheduling system
-- **🎨 Modern UI/UX** - Clean, responsive design with Shadcn UI components
-- **📱 Mobile Responsive** - Optimized for all devices and screen sizes
+- **Performance Analytics** - Real-time performance tracking with interactive charts
+- **Team Management** - Comprehensive employee and hiring oversight
+- **Project Tracking** - Monitor ongoing projects and upcoming actions
+- **Application Management** - Streamlined job application processing
+- **Schedule Integration** - Meeting and event scheduling system
+- **Modern UI/UX** - Clean, responsive design with Shadcn UI components
+- **Mobile Responsive** - Optimized for all devices and screen sizes
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +44,7 @@ A modern HR management dashboard built with **React**, **TypeScript**, and **Tai
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/gigflow-dashboard.git
+   git clone https://github.com/Anish-Tripathi/GigFloww-Dashboard
    cd gigflow-dashboard
    ```
 
