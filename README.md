@@ -4,7 +4,7 @@ A modern HR management dashboard built with React, TypeScript, and Tailwind CSS,
 
 This dashboard was built for GigFloww — a next-generation HR consultancy helping businesses in the US and UK optimize their workforce by replacing traditional employees with skilled interns and entry-level professionals. The platform supports cost-effective hiring, streamlined onboarding, flexible team scaling, and efficient workforce tracking — all without long-term commitments.
 
-## Live Demo: https://your-demo-link.com
+**Live Demo**: https://your-demo-link.com
 
 ---
 ## 📸 Preview
