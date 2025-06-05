@@ -1,4 +1,4 @@
-# GigFlow Dashboard 🚀
+# GigFlow Dashboard 
 
 A modern HR management dashboard built with React, TypeScript, and Tailwind CSS, featuring the elegant Shadcn UI component library.
 
