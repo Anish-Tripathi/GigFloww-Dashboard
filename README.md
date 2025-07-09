@@ -7,13 +7,13 @@ This dashboard was built for GigFloww — a next-generation HR consultancy helpi
 **Live Demo**: https://gig-floww-dashboard.vercel.app/
 
 ---
-## 📸 Preview
+##  Preview
 
 <p align="center">
   <img src="./screenshots/dashboard-preview.png" alt="GigFlow Dashboard" width="700" height="550"/>
 </p>
 
-## ✨ Features
+##  Features
 
 - **Performance Analytics** - Real-time performance tracking with interactive charts
 - **Team Management** - Comprehensive employee and hiring oversight
@@ -23,7 +23,7 @@ This dashboard was built for GigFloww — a next-generation HR consultancy helpi
 - **Modern UI/UX** - Clean, responsive design with Shadcn UI components
 - **Mobile Responsive** - Optimized for all devices and screen sizes
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React 18+ with TypeScript
 - **Styling**: Tailwind CSS
@@ -31,8 +31,8 @@ This dashboard was built for GigFloww — a next-generation HR consultancy helpi
 - **Build Tool**: Vite
 - **Package Manager**: npm/yarn
 - **Configuration**: ESLint, Prettier
-
-## 🚀 Quick Start
+  
+##  Quick Start
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ This dashboard was built for GigFloww — a next-generation HR consultancy helpi
    http://localhost:5173
    ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 gigflow-dashboard/
@@ -98,7 +98,7 @@ gigflow-dashboard/
 └── README.md
 ```
 
-## 🎨 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
@@ -106,7 +106,7 @@ gigflow-dashboard/
 - `npm run lint` - Run ESLint
 - `npm run type-check` - Run TypeScript checks
 
-## 📦 Key Dependencies
+##  Key Dependencies
 
 ```json
 {
@@ -119,7 +119,7 @@ gigflow-dashboard/
 }
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### Tailwind CSS
 
@@ -152,7 +152,7 @@ Strict TypeScript configuration for better code quality:
 }
 ```
 
-## 🎯 Dashboard Features
+##  Dashboard Features
 
 ### Performance Metrics
 
@@ -172,7 +172,7 @@ Strict TypeScript configuration for better code quality:
 - Candidate evaluation tools
 - Interview scheduling
 
-## 🎯 Component Architecture
+##  Component Architecture
 
 The dashboard is built with a modular section-based architecture:
 
